@@ -6,11 +6,11 @@ Requires at least: 3.0
 Tested up to: 3.2
 Stable tag: trunk
 
-Hacked Version of Daniel Tweedy's Realtime sitemap plugin. A sitemap plugin to make it easier for your site to show all your pages, posts, archives, categories and tags in an easy to read format without any need for template modification or html/php knowledge in a page, my plugin does not create a .xml for any search engines this is outside of what this plugin was designed to do.
+A sitemap plugin to make it easier for your site to show all your pages, posts, archives, categories and tags in an easy to read format without any need for template modification or html/php knowledge in a page, my plugin does not create a .xml for any search engines this is outside of what this plugin was designed to do.
 
 == Description ==
 
-Hacked Version of Daniel Tweedy's Realtime sitemap plugin. A sitemap plugin to make it easier for your site to show all your pages, posts, archives, categories and tags in an easy to read format without any need for template modification or html/php knowledge in a page, my plugin does not create a .xml for any search engines this is outside of what this plugin was designed to do.
+A sitemap plugin to make it easier for your site to show all your pages, posts, archives, categories and tags in an easy to read format without any need for template modification or html/php knowledge in a page, my plugin does not create a .xml for any search engines this is outside of what this plugin was designed to do.
 
 1. Order the output anyway you want in the plugin settings page.
 1. Order the output of the WP Nav Menu, Pages, Posts, Custom Post Types, Archives, Categories and Tags.
@@ -198,7 +198,7 @@ Full details of producing a translation can be found in this [guide to translati
 
 = 1.4.7.2 =
 * Changed constructor so the localization files are initialized with the plugin.
-* Spanish translation by FranÃ§ois-Xavier Gonzalez.
+* Spanish translation by François-Xavier Gonzalez.
 
 = 1.4.7.1 =
 * Fixed some duplication errors in the language files.
